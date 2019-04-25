@@ -48,7 +48,7 @@ just another repository
 
 <tr>
 <td><label for="aboutus">About Us:</label></td>
-<td valign="middle" align="center"><textarea></textarea></td>
+<td valign="middle" align="center"></td>
 </tr>
 
 <tr>
